@@ -1,9 +1,4 @@
 
----
-
-### **.gitignore**
-
-```gitignore
 # Python
 *.pyc
 __pycache__/
